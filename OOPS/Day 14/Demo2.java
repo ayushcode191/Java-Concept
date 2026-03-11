@@ -2,8 +2,8 @@ public class Demo2 {
 
     public static void main(String[] args) {
         Random r1 =  new Random(4,5);
-        Random r2 = new Random(r1); // Deep Copy
-        Random r3 = r1; // Shallow Copy
+        // Random r2 = new Random(r1); // Deep Copy
+        // Random r3 = r1; // Shallow Copy
 
         System.out.println(r1.x +" , "+r1.y);
         addTen(r1);

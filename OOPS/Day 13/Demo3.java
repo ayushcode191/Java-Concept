@@ -11,6 +11,7 @@ public class Demo3 {
         // System.out.println(s3.collegeName);
         // System.out.println(s4.age);
         // System.out.println(s5.name);
+        System.out.println(s1.age);
 
     }
 }
