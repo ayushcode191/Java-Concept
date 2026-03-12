@@ -25,3 +25,22 @@ java.lang
 java.io
 
 2. user-defined package
+
+
+# Inheritence
+1. Code Reuseablity
+2. Support Polymorphism
+
+
+=> Due to Diamond Problem multiple Inheritence is not allowed in java through classes.
+
+# super keyword
+=> this - reference of current object
+=> super - refernce to parent object
+
+=> to access parent class variable
+=> I can called parent class's method using super.
+=> call parent class's constructor
+
+
+
