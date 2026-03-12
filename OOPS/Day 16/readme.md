@@ -15,3 +15,13 @@
 
 
 # Encapsulation
+
+
+
+# Package
+1. Inbuilt Package
+java.util
+java.lang
+java.io
+
+2. user-defined package
