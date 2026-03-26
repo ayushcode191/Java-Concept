@@ -1,3 +1,4 @@
+
 public class Demo7 {
     public static void main(String[] args) {
         Box<Fish> b1 = new Box();
