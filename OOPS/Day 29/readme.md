@@ -154,5 +154,3 @@ hasNext();
 next();
 remove();
 forEachRemaining();
-
-
