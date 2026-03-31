@@ -9,7 +9,7 @@ public class Demo {
         c.add(30);
 
         //size()
-        int n = c.size();
+        // int n = c.size();
         // System.out.println(n);
 
         // System.out.println(c.isEmpty()); // optimised 
