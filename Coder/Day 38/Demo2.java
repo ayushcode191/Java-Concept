@@ -17,9 +17,13 @@ public class Demo2 {
 
         List<Integer> list = new ArrayList<>(List.of(1,2,3,4,5,6,7,8,9,0));
 
-        for(Integer i : list){
-            System.out.println(i);
-        }
+        // for(Integer i : list){
+        //     System.out.println(i);
+        // }
+
+        // list.forEach(x -> System.out.println(x));
+
+        list.forEach(System.out::println);
 
     }
 }
